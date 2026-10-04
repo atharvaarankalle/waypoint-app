@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Waypoint.Api/Waypoint.Api.csproj" />
+  <Project Path="Waypoint.Data/Waypoint.Data.csproj" />
+</Solution>
